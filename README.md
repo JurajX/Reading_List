@@ -11,6 +11,7 @@ I tried to group them according to some similarities I observed among them. Howe
 * The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
 * The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
+* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
 * The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness)
 
 ####
