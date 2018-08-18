@@ -113,6 +113,7 @@ I tried to group them according to some similarities I observed among them. Howe
 * Jumping into C++ - Allain [book's site](https://www.cprogramming.com/c++book/)
 * Accelerated C++ - Koenig, Moo [book's site](https://archive.org/details/AcceleratedCAndrewKoenigBarbaraE.Moo)
 * The C++ Programming Language - Stroustrup [book's site](http://www.stroustrup.com/4th.html)
+* The Elements of Computing Systems - Nisan, Schocken [book's site](https://www.nand2tetris.org)
 
 ####
 
