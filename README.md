@@ -114,6 +114,7 @@ I tried to group them according to some similarities I observed among them. Howe
 * Accelerated C++ - Koenig, Moo [book's site](https://archive.org/details/AcceleratedCAndrewKoenigBarbaraE.Moo)
 * The C++ Programming Language - Stroustrup [book's site](http://www.stroustrup.com/4th.html)
 * The Elements of Computing Systems - Nisan, Schocken [book's site](https://www.nand2tetris.org)
+* Operating Systems: Three Easy Pieces - Arpaci-Dusseau [book's site](http://pages.cs.wisc.edu/~remzi/OSTEP)
 
 ####
 
