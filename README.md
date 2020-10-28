@@ -8,21 +8,8 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Non-fiction
 
-* The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
-* The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
-* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
-* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness)
-
-####
-
-* Why We Sleep - Walker [GoodReads](https://www.goodreads.com/book/show/34466963-why-we-sleep)
-* Ending Aging - de Grey [GoodReads](https://www.goodreads.com/book/show/519781.Ending_Aging)
-* How Not to Die - Greger, Stone [GoodReads](https://www.goodreads.com/book/show/25663961-how-not-to-die)
-* The Oxygen Advantage - McKeown [GoodReads](https://www.goodreads.com/book/show/26533127-the-oxygen-advantage)
-
-####
-
+* The Crowd - Le Bon [GoodReads](https://www.goodreads.com/uk/book/show/36579209-the-crowd)
 * How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 * Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725-start-with-why)
 * Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853-leaders-eat-last)
@@ -36,11 +23,22 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ####
 
+* Ending Aging - de Grey [GoodReads](https://www.goodreads.com/book/show/519781.Ending_Aging)
+* Why We Sleep - Walker [GoodReads](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+* How Not to Die - Greger, Stone [GoodReads](https://www.goodreads.com/book/show/25663961-how-not-to-die)
+* The Oxygen Advantage - McKeown [GoodReads](https://www.goodreads.com/book/show/26533127-the-oxygen-advantage)
+
+####
+
 * Body language - Pease [GoodReads](https://www.goodreads.com/book/show/262731.The_Definitive_Book_of_Body_Language)
 * Predictably Irrational - Ariely [GoodReads](https://www.goodreads.com/book/show/8668400-a-taste-of-irrationality)
 * Tricks of the Mind - Brown [GoodReads](https://www.goodreads.com/book/show/945683.Tricks_of_the_Mind)
 * How to Develop a Perfect Memory - O'Brien [GoodReads](https://www.goodreads.com/book/show/2691332-how-to-develop-a-perfect-memory)
 * Thinking, Fast and Slow - Kahneman [GoodReads](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+* The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
+* The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
+* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
+* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness)
 
 ####
 
@@ -111,7 +109,6 @@ I tried to group them according to some similarities I observed among them. Howe
 ### Programming
 
 * Jumping into C++ - Allain [book's site](https://www.cprogramming.com/c++book/)
-* Accelerated C++ - Koenig, Moo [book's site](https://archive.org/details/AcceleratedCAndrewKoenigBarbaraE.Moo)
 * The C++ Programming Language - Stroustrup [book's site](http://www.stroustrup.com/4th.html)
 * The Elements of Computing Systems - Nisan, Schocken [book's site](https://www.nand2tetris.org)
 * Operating Systems: Three Easy Pieces - Arpaci-Dusseau [book's site](http://pages.cs.wisc.edu/~remzi/OSTEP)
