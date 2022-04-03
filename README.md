@@ -10,6 +10,7 @@ I tried to group them according to some similarities I observed among them. Howe
 
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
 * Guns, Germs, and Steel - Diamond [GoodReads](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
+* Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212.Propaganda)
 * The Crowd - Le Bon [GoodReads](https://www.goodreads.com/uk/book/show/36579209-the-crowd)
 * How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 * Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725-start-with-why)
