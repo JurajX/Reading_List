@@ -110,6 +110,11 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Programming
 
+* Clean Code - Robert C. Martin [book's site](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)
+* Clean Coder - Robert C. Martin [book's site](https://www.informit.com/store/clean-coder-a-code-of-conduct-for-professional-programmers-9780137081073)
+
+####
+
 * Jumping into C++ - Allain [book's site](https://www.cprogramming.com/c++book/)
 * The C++ Programming Language - Stroustrup [book's site](http://www.stroustrup.com/4th.html)
 * Professional C++, 5th Edition - Gregoire [book's site](https://www.wiley.com/en-us/Professional+C%2B%2B%2C+5th+Edition-p-9781119695455)
