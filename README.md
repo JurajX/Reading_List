@@ -147,4 +147,4 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Neurology
 
-* Principles of neural science - Kandel, Schwartz, Jess [Wikipedia](https://en.wikipedia.org/wiki/Principles_of_Neural_Science)
+* Principles of neural science - Kandel, Schwartz, Jess [wiki link](https://en.wikipedia.org/wiki/Principles_of_Neural_Science)
