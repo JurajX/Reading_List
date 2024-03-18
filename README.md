@@ -9,59 +9,60 @@ I tried to group them according to some similarities I observed among them. Howe
 ### Non-fiction
 
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
-* Guns, Germs, and Steel - Diamond [GoodReads](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
-* Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212.Propaganda)
-* The Crowd - Le Bon [GoodReads](https://www.goodreads.com/uk/book/show/36579209-the-crowd)
-* How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-* Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725-start-with-why)
-* Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853-leaders-eat-last)
-* Find Your Why - Sinek, Mead, Docker [GoodReads](https://www.goodreads.com/book/show/29496432-find-your-why)
+* Guns, Germs, and Steel - Diamond [GoodReads](https://www.goodreads.com/book/show/1842)
+* Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212)
+* The Crowd - Le Bon [GoodReads](https://www.goodreads.com/uk/book/show/36579209)
+* How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865)
+* Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725)
+* Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853)
+* Find Your Why - Sinek, Mead, Docker [GoodReads](https://www.goodreads.com/book/show/29496432)
+
 
 ####
 
-* Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182-mastery)
-* Relentless - Grover [GoodReads](https://www.goodreads.com/book/show/17354208-relentless)
-* The Talent Code  - Coyle [GoodReads](https://www.goodreads.com/book/show/5771014-the-talent-code)
+* Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182)
+* Relentless - Grover [GoodReads](https://www.goodreads.com/book/show/17354208)
+* The Talent Code  - Coyle [GoodReads](https://www.goodreads.com/book/show/5771014)
 
 ####
 
-* Ending Aging - de Grey [GoodReads](https://www.goodreads.com/book/show/519781.Ending_Aging)
-* Why We Sleep - Walker [GoodReads](https://www.goodreads.com/book/show/34466963-why-we-sleep)
-* How Not to Die - Greger, Stone [GoodReads](https://www.goodreads.com/book/show/25663961-how-not-to-die)
-* The Oxygen Advantage - McKeown [GoodReads](https://www.goodreads.com/book/show/26533127-the-oxygen-advantage)
+* Ending Aging - de Grey [GoodReads](https://www.goodreads.com/book/show/519781)
+* Why We Sleep - Walker [GoodReads](https://www.goodreads.com/book/show/34466963)
+* How Not to Die - Greger, Stone [GoodReads](https://www.goodreads.com/book/show/25663961)
+* The Oxygen Advantage - McKeown [GoodReads](https://www.goodreads.com/book/show/26533127)
 
 ####
 
-* Body language - Pease [GoodReads](https://www.goodreads.com/book/show/262731.The_Definitive_Book_of_Body_Language)
-* Predictably Irrational - Ariely [GoodReads](https://www.goodreads.com/book/show/8668400-a-taste-of-irrationality)
-* Tricks of the Mind - Brown [GoodReads](https://www.goodreads.com/book/show/945683.Tricks_of_the_Mind)
-* How to Develop a Perfect Memory - O'Brien [GoodReads](https://www.goodreads.com/book/show/2691332-how-to-develop-a-perfect-memory)
-* Thinking, Fast and Slow - Kahneman [GoodReads](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+* Body language - Pease [GoodReads](https://www.goodreads.com/book/show/262731)
+* Predictably Irrational - Ariely [GoodReads](https://www.goodreads.com/book/show/8668400)
+* Tricks of the Mind - Brown [GoodReads](https://www.goodreads.com/book/show/945683)
+* How to Develop a Perfect Memory - O'Brien [GoodReads](https://www.goodreads.com/book/show/2691332)
+* Thinking, Fast and Slow - Kahneman [GoodReads](https://www.goodreads.com/book/show/11468377)
 * The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
 * The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
-* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
-* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747.The_Miracle_of_Mindfulness)
+* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707)
+* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747)
 
 ####
 
-* The Large, the Small and the Human Mind - Penrose [GoodReads](https://www.goodreads.com/book/show/187101.The_Large_the_Small_and_the_Human_Mind)
-* Gödel, Escher, Bach - Hofstadter [GoodReads](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
-* How Would You Move Mount Fuji - Poundstone [GoodReads](https://www.goodreads.com/book/show/205266.How_Would_You_Move_Mount_Fuji)
+* The Large, the Small and the Human Mind - Penrose [GoodReads](https://www.goodreads.com/book/show/187101)
+* Gödel, Escher, Bach - Hofstadter [GoodReads](https://www.goodreads.com/book/show/24113)
+* How Would You Move Mount Fuji - Poundstone [GoodReads](https://www.goodreads.com/book/show/205266)
 
 ####
 
-* The Prince - Machiavelli [GoodReads](https://www.goodreads.com/book/show/28862.The_Prince)
-* Zero to One - Thiel [GoodReads](https://www.goodreads.com/book/show/18050143-zero-to-one)
-* Money master the game - Robbins [GoodReads](https://www.goodreads.com/book/show/23014006-money-master-the-game)
+* The Prince - Machiavelli [GoodReads](https://www.goodreads.com/book/show/28862)
+* Zero to One - Thiel [GoodReads](https://www.goodreads.com/book/show/18050143)
+* Money master the game - Robbins [GoodReads](https://www.goodreads.com/book/show/23014006)
 
 ####
 
-* Guitar For Dummies - Phillips, Chappell [GoodReads](https://www.goodreads.com/book/show/299491.Guitar_For_Dummies)
+* Guitar For Dummies - Phillips, Chappell [GoodReads](https://www.goodreads.com/book/show/299491)
 
 
 ### Fiction
 
-* The Kite Runner - Hosseini [GoodReads](https://www.goodreads.com/book/show/77203.The_Kite_Runner)
+* The Kite Runner - Hosseini [GoodReads](https://www.goodreads.com/book/show/77203)
 * The Little Prince - de Saint-Exupéry [wiki link](https://en.wikipedia.org/wiki/The_Little_Prince)
 * Emil und die Detektive - Kästner [wiki link](https://en.wikipedia.org/wiki/Emil_and_the_Detectives)
 * Mario und der Zauberer - Mann [wiki link](https://en.wikipedia.org/wiki/Mario_and_the_Magician)
@@ -140,4 +141,4 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Neurology
 
-* Principles of neural science - Kandel, Schwartz, Jess [GoodReads](https://en.wikipedia.org/wiki/Principles_of_Neural_Science)
+* Principles of neural science - Kandel, Schwartz, Jess [Wikipedia](https://en.wikipedia.org/wiki/Principles_of_Neural_Science)
