@@ -8,6 +8,10 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Non-fiction
 
+* Free to Learn - Peter O. Gray [GoodReads](https://www.goodreads.com/book/show/15843125)
+
+####
+
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
 * Guns, Germs, and Steel - Diamond [GoodReads](https://www.goodreads.com/book/show/1842)
 * Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212)
@@ -17,9 +21,10 @@ I tried to group them according to some similarities I observed among them. Howe
 * Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853)
 * Find Your Why - Sinek, Mead, Docker [GoodReads](https://www.goodreads.com/book/show/29496432)
 
-
 ####
 
+* Never Finished - David Goggins [GoodReads](https://www.goodreads.com/book/show/63079845)
+* Can't Hurt Me - David Goggins [GoodReads](https://www.goodreads.com/book/show/41721428)
 * Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182)
 * Relentless - Grover [GoodReads](https://www.goodreads.com/book/show/17354208)
 * The Talent Code  - Coyle [GoodReads](https://www.goodreads.com/book/show/5771014)
@@ -111,8 +116,9 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Programming
 
-* Clean Code - Robert C. Martin [book's site](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)
 * Clean Coder - Robert C. Martin [book's site](https://www.informit.com/store/clean-coder-a-code-of-conduct-for-professional-programmers-9780137081073)
+* Clean Architecture - Robert C. Martin [book's site](https://www.informit.com/store/clean-architecture-a-craftsmans-guide-to-software-structure-9780134494326)
+* Clean Code - Robert C. Martin [book's site](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)
 
 ####
 
