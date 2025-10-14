@@ -8,7 +8,9 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Non-fiction
 
-* Free to Learn - Peter O. Gray [GoodReads](https://www.goodreads.com/book/show/15843125)
+* The Courage to Be Disliked - Kishimi, Koga [GoodReads](https://www.goodreads.com/book/show/43306206)
+
+* Free to Learn - Gray [GoodReads](https://www.goodreads.com/book/show/15843125)
 
 ####
 
@@ -23,8 +25,8 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ####
 
-* Never Finished - David Goggins [GoodReads](https://www.goodreads.com/book/show/63079845)
-* Can't Hurt Me - David Goggins [GoodReads](https://www.goodreads.com/book/show/41721428)
+* Never Finished - Goggins [GoodReads](https://www.goodreads.com/book/show/63079845)
+* Can't Hurt Me - Goggins [GoodReads](https://www.goodreads.com/book/show/41721428)
 * Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182)
 * Relentless - Grover [GoodReads](https://www.goodreads.com/book/show/17354208)
 * The Talent Code  - Coyle [GoodReads](https://www.goodreads.com/book/show/5771014)
@@ -116,9 +118,9 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Programming
 
-* Clean Coder - Robert C. Martin [book's site](https://www.informit.com/store/clean-coder-a-code-of-conduct-for-professional-programmers-9780137081073)
-* Clean Architecture - Robert C. Martin [book's site](https://www.informit.com/store/clean-architecture-a-craftsmans-guide-to-software-structure-9780134494326)
-* Clean Code - Robert C. Martin [book's site](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)
+* Clean Coder - Martin [book's site](https://www.informit.com/store/clean-coder-a-code-of-conduct-for-professional-programmers-9780137081073)
+* Clean Architecture - Martin [book's site](https://www.informit.com/store/clean-architecture-a-craftsmans-guide-to-software-structure-9780134494326)
+* Clean Code - Martin [book's site](https://www.informit.com/store/clean-code-a-handbook-of-agile-software-craftsmanship-9780132350884)
 
 ####
 
