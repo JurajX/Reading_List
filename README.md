@@ -20,11 +20,13 @@ I tried to group them according to some similarities I observed among them. Howe
 * Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212)
 * The Crowd - Le Bon [GoodReads](https://www.goodreads.com/book/show/36579209)
 
-#### <!-- Power, Strategy, Influence & Leadership -->
+#### <!-- Power, Strategy & Influence -->
 
 * How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865)
 * Body Language - Pease [GoodReads](https://www.goodreads.com/book/show/262731)
 * The Prince - Machiavelli [GoodReads](https://www.goodreads.com/book/show/28862)
+
+#### <!-- Leadership, Purpose & Organisations -->
 
 * Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725)
 * Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853)
@@ -67,7 +69,7 @@ I tried to group them according to some similarities I observed among them. Howe
 * The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
 * The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
 
-#### <!-- Investment -->
+#### <!-- Money -->
 
 * Money Master the Game - Robbins [GoodReads](https://www.goodreads.com/book/show/23014006)
 
