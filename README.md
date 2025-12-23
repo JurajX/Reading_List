@@ -8,59 +8,68 @@ I tried to group them according to some similarities I observed among them. Howe
 
 ### Non-fiction
 
-* The Courage to Be Disliked - Kishimi, Koga [GoodReads](https://www.goodreads.com/book/show/43306206)
+#### <!-- Kids -->
 
 * Free to Learn - Gray [GoodReads](https://www.goodreads.com/book/show/15843125)
+* No-Drama Discipline - Siegel, Bryson [GoodReads](https://www.goodreads.com/book/show/40873423)
 
-####
+#### <!-- Civilisation, Society & Mass Behaviour -->
 
 * Sapiens - Harari [GoodReads](https://www.goodreads.com/book/show/23692271-sapiens)
 * Guns, Germs, and Steel - Diamond [GoodReads](https://www.goodreads.com/book/show/1842)
 * Propaganda - Bernays [GoodReads](https://www.goodreads.com/book/show/493212)
-* The Crowd - Le Bon [GoodReads](https://www.goodreads.com/uk/book/show/36579209)
+* The Crowd - Le Bon [GoodReads](https://www.goodreads.com/book/show/36579209)
+
+#### <!-- Power, Strategy, Influence & Leadership -->
+
 * How to Win Friends and Influence People - Carnegie [GoodReads](https://www.goodreads.com/book/show/4865)
+* Body Language - Pease [GoodReads](https://www.goodreads.com/book/show/262731)
+* The Prince - Machiavelli [GoodReads](https://www.goodreads.com/book/show/28862)
+
 * Start with Why - Sinek [GoodReads](https://www.goodreads.com/book/show/7108725)
 * Leaders Eat Last - Sinek [GoodReads](https://www.goodreads.com/book/show/16144853)
 * Find Your Why - Sinek, Mead, Docker [GoodReads](https://www.goodreads.com/book/show/29496432)
+* Build - Fadell [GoodReads](https://www.goodreads.com/book/show/59696349)
 
-####
+#### <!-- Personal Philosophy & Meaning -->
+
+* The Courage to Be Disliked - Kishimi, Koga [GoodReads](https://www.goodreads.com/book/show/43306206)
+* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707)
+* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747)
+
+#### <!-- Performance, Mastery & Mental Toughness -->
 
 * Never Finished - Goggins [GoodReads](https://www.goodreads.com/book/show/63079845)
 * Can't Hurt Me - Goggins [GoodReads](https://www.goodreads.com/book/show/41721428)
-* Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182)
 * Relentless - Grover [GoodReads](https://www.goodreads.com/book/show/17354208)
+* Mastery - Greene [GoodReads](https://www.goodreads.com/book/show/13589182)
 * The Talent Code  - Coyle [GoodReads](https://www.goodreads.com/book/show/5771014)
 
-####
+#### <!-- Decision-Making, Cognition & the Mind -->
+
+* Thinking, Fast and Slow - Kahneman [GoodReads](https://www.goodreads.com/book/show/11468377)
+* Predictably Irrational - Ariely [GoodReads](https://www.goodreads.com/book/show/8668400)
+* How to Develop a Perfect Memory - O'Brien [GoodReads](https://www.goodreads.com/book/show/2691332)
+* Tricks of the Mind - Brown [GoodReads](https://www.goodreads.com/book/show/945683)
+* How Would You Move Mount Fuji - Poundstone [GoodReads](https://www.goodreads.com/book/show/205266)
+
+#### <!-- Health, Longevity & Physiology -->
 
 * Ending Aging - de Grey [GoodReads](https://www.goodreads.com/book/show/519781)
 * Why We Sleep - Walker [GoodReads](https://www.goodreads.com/book/show/34466963)
 * How Not to Die - Greger, Stone [GoodReads](https://www.goodreads.com/book/show/25663961)
 * The Oxygen Advantage - McKeown [GoodReads](https://www.goodreads.com/book/show/26533127)
 
-####
-
-* Body language - Pease [GoodReads](https://www.goodreads.com/book/show/262731)
-* Predictably Irrational - Ariely [GoodReads](https://www.goodreads.com/book/show/8668400)
-* Tricks of the Mind - Brown [GoodReads](https://www.goodreads.com/book/show/945683)
-* How to Develop a Perfect Memory - O'Brien [GoodReads](https://www.goodreads.com/book/show/2691332)
-* Thinking, Fast and Slow - Kahneman [GoodReads](https://www.goodreads.com/book/show/11468377)
-* The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
-* The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
-* The Subtle Art of Not Giving a Fuck - Manson [GoodReads](https://www.goodreads.com/book/show/28257707)
-* The Miracle of Mindfulness - Hanh,  Mai, Ho [GoodReads](https://www.goodreads.com/book/show/95747)
-
-####
+#### <!-- Science -->
 
 * The Large, the Small and the Human Mind - Penrose [GoodReads](https://www.goodreads.com/book/show/187101)
 * Gödel, Escher, Bach - Hofstadter [GoodReads](https://www.goodreads.com/book/show/24113)
-* How Would You Move Mount Fuji - Poundstone [GoodReads](https://www.goodreads.com/book/show/205266)
+* The Brain That Changes Itself - Doidge [book's site](http://www.normandoidge.com/?page_id=1259)
+* The Brain's Way of Healing - Doidge [book's site](http://www.normandoidge.com/?page_id=1042)
 
-####
+#### <!-- Investment -->
 
-* The Prince - Machiavelli [GoodReads](https://www.goodreads.com/book/show/28862)
-* Zero to One - Thiel [GoodReads](https://www.goodreads.com/book/show/18050143)
-* Money master the game - Robbins [GoodReads](https://www.goodreads.com/book/show/23014006)
+* Money Master the Game - Robbins [GoodReads](https://www.goodreads.com/book/show/23014006)
 
 ####
 
